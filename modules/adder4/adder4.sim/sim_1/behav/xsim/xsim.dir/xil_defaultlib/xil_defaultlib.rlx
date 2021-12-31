@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/denjo/WorkSpace/irie_jikken/work/adder4/adder4.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+/home/denjo/WorkSpace/irie_jikken/work/practice/adder.v,1638156487,verilog,,/home/denjo/WorkSpace/irie_jikken/work/practice/top_module.v,,adder,,,,,,,,
+/home/denjo/WorkSpace/irie_jikken/work/practice/testbench.v,1638156487,verilog,,,,testbench,,,,,,,,
+/home/denjo/WorkSpace/irie_jikken/work/practice/top_module.v,1638156487,verilog,,/home/denjo/WorkSpace/irie_jikken/work/practice/testbench.v,,top_module,,,,,,,,

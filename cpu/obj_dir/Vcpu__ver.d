@@ -1,0 +1,1 @@
+obj_dir/Vcpu.cpp obj_dir/Vcpu.h obj_dir/Vcpu.mk obj_dir/Vcpu__Syms.cpp obj_dir/Vcpu__Syms.h obj_dir/Vcpu__ver.d obj_dir/Vcpu_classes.mk  : /usr/bin/verilator_bin /usr/bin/verilator_bin IO_data_memory.v alu.v cpu.v data_memory.v decoder.v define.vh hardware_counter.v inst_memory.v mux_2in.v mux_4in.v nextPC.v register_file.v uart.v 
